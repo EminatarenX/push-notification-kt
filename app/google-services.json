@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084469260104",
+    "project_id": "up-chiapas-emi",
+    "storage_bucket": "up-chiapas-emi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084469260104:android:15f00c18ed8d1788cacd7d",
+        "android_client_info": {
+          "package_name": "com.corte2_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaIQsfFTYPhs4HGBasHO8MJwazJO7Lm84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
